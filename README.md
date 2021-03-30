@@ -109,7 +109,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-05a-Procedural-Generation
-Exercise for MSCH-C220, 22 March 2021
+Exercise for MSCH-C220, 29 March 2021
 
 An implementation of a procedurally-generated 2D maze.
 
@@ -125,5 +125,5 @@ This project is an adaptation of the excellent tutorial from [KidsCanCode](https
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
